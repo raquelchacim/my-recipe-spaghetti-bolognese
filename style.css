@@ -1,19 +1,24 @@
 body {
   font-family: 'Inter', sans-serif;
+  font-size: 18px;
+  line-height: 22px;
 }
-
+h1 {
+  color: #3d242d;
+}
 h2 {
-  color: green;
+  color: #bd5533;
 }
-
 .red {
-  color: red;
+  color: #92140c;
 }
-
-.brown {
-  color: brown;
+.grey {
+  color: grey;
 }
-
-#black {
-  color: black;
+.line-height {
+  margin-bottom: 20px;
+}
+#subtitle {
+  font-weight: bold;
+  font-style: italic;
 }
