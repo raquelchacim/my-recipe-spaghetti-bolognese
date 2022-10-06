@@ -1,0 +1,19 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+h2 {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.brown {
+  color: brown;
+}
+
+#black {
+  color: black;
+}
